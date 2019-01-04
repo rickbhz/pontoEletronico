@@ -1,4 +1,4 @@
-package com.kazale.pontointeligente.api.entities;
+package com.cadu.pontoEletronico.api.entities;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
@@ -22,7 +22,7 @@ import javax.persistence.PreUpdate;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 
-import com.kazale.pontointeligente.api.enums.PerfilEnum;
+import com.cadu.pontoEletronico.api.enums.PerfilEnum;
 
 @Entity
 @Table(name = "funcionario")

@@ -1,4 +1,4 @@
-package com.kazale.pontointeligente.api.entities;
+package com.cadu.pontoEletronico.api.entities;
 
 import java.io.Serializable;
 import java.util.Date;
